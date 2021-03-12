@@ -2,7 +2,7 @@
 - 👀 I’m interested in making apps and games for desktop and mobile
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on simple projects concidering I'm still learning some Java
-- 📫 How to reach me JonTech543@protonmail.com
+- 📫 How to reach me 
 
 <!---
 jrt345/jrt345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
